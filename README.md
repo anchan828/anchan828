@@ -1,4 +1,4 @@
-<div>
+<div style="clear: both;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anchan828&count_private=true&show_icons=true" />
 </a>
@@ -7,9 +7,7 @@
 </a>
 </div>
 
-<div style="clear: both;"></div>
-
-## 🌱 I’m currently learning ...
+<h2 style="clear: both;">🌱 I’m currently learning ...</h2>
 
 
 - ![](https://api.iconify.design/logos-nestjs.svg?height=16) Nestjs 
