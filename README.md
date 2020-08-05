@@ -7,11 +7,6 @@
 </a>
 </div>
 
-<h2 style="clear: both;">🌱 I’m currently learning ...</h2>
-
-
-- ![](https://api.iconify.design/logos-nestjs.svg?height=16) Nestjs 
-
 <!--
 **anchan828/anchan828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
