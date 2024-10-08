@@ -1,14 +1,26 @@
-<!--
-**anchan828/anchan828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=anchan828)
+![](https://github-profile-trophy.vercel.app/?username=anchan828)
+
+## Programming Languages
+
+![](https://go-skill-icons.vercel.app/api/icons?i=ts,js,cs,go&perline=10)
+
+## Frontend Development
+
+![](https://go-skill-icons.vercel.app/api/icons?i=react,angular,nextjs&perline=10)
+
+## Backend Development
+
+![](https://go-skill-icons.vercel.app/api/icons?i=nestjs,hono,express,graphql,mysql,postgres,sqlite,redis&perline=10)
+
+## Platforms
+
+![](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,googlecloud&perline=10)
+
+## And more!
+
+![](https://go-skill-icons.vercel.app/api/icons?i=nodejs,deno,bun,npm,yarn,terraform,git,github,gitlab,bitbucket,vscode,webstorm,rider,vim,linux,unity,figma,slack,notion,jira,miro,githubactions,googleappsscript,grafana,prometheus,ubuntu,bash&perline=10)
